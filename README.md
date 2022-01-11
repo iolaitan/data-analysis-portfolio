@@ -15,6 +15,10 @@ Used **Python BeautifulSoup** to collect property listing data from Zoopla. For 
 **Skills**: Webscraping, Data Collection, HTML parsing
 
 
+
+
+
+
 ### Data Cleaning Projects
 
 
