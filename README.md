@@ -2,13 +2,9 @@
 
 Hi, I'm Itunu! This is a repository that I have created to showcase my skills from self-learning and track my progress in Data Analytics topic and skills fundamental to many data analyst roles.
 
+## Projects
 
-## Table of Contents
-
-
-
-
-## Webscraping 
+### Webscraping 
 #### Scrape Property Listings
 **Code**: [Webscraper_Tool_Zoopla.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Webscraper%20Tool%20Zoopla%20.ipynb)
 
@@ -19,8 +15,7 @@ Hi, I'm Itunu! This is a repository that I have created to showcase my skills fr
 **Skills**: Webscraping, Data Collection, HTML parsing
 
 
-
-## Data Cleaning Projects
+### Data Cleaning Projects
 
 
 #### Cleaning Airbnb Data for NYC
