@@ -16,11 +16,23 @@ Hi, I'm Itunu! This is a repository that I have created to showcase my skills fr
 
 **Programming Language/Tools used**: Python, BeautifulSoup, pandas
 
-**Skills**: Webscraping 
+**Skills**: Webscraping, Data Collection, HTML parsing
 
 
 
 ## Data Cleaning Projects
+
+
+#### Cleaning Airbnb Data for NYC
+**Code**: [Cleaning_And_Analysing_Employee_Data.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Cleaning%20and%20analysing%20employee%20data.ipynb)
+
+**Description**: In this data cleaning project, I will clean the dataset by examining **missing values**, **duplicates**, **invalid/erroneous values**, fixing **datatypes**, **anomaly detection** and Y-variable cleaning methods (**Label encoding**, **dictionary mapping**, **one-hot encoding**).
+
+**Programming Language/Tools used**: Python, pandas, numpy, scikit-learn
+
+**Results**: Produced and exported a clean dataset that will be used in the next exploratory and visualisation steps
+
+
 
 #### Short data cleaning task
 **Code**: [Cleaning_And_Analysing_Employee_Data.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Cleaning%20and%20analysing%20employee%20data.ipynb)
@@ -37,41 +49,6 @@ Hi, I'm Itunu! This is a repository that I have created to showcase my skills fr
 
 
 
-#### Short data cleaning tasks
-**Code**: 
-
-**Description**:
-
-**Programming Language/Tools used**:
-
-**Skills**: 
 
 
 
-
-
-
-
-
-
-#### BCG
-Code: 
-
-Description:
-
-Programming Language/Tools used:
-
-Skills:
-
-Results: 
-
-
-
-
-
-
-
-### Study Projects
-- Accidents
-- House Prices
-- Learning SQL
