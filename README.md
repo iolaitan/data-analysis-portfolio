@@ -29,17 +29,7 @@ Hi, I'm Itunu! This is a repository that I have created to showcase my skills fr
 
 
 
-#### Short data cleaning task
-**Code**: [Cleaning_And_Analysing_Employee_Data.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Cleaning%20and%20analysing%20employee%20data.ipynb)
-
-**Description**:  
-
-**Programming Language/Tools used**: 
-
-**Skills**:
-
-**Results**:
-
+#### Mini Projects can be found here: [Mini Projects for Learning](https://github.com/iolaitan/data-analysis-portfolio/tree/main/mini_projects)
 
 
 
