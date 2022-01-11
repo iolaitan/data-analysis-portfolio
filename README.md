@@ -24,7 +24,7 @@ Hi, I'm Itunu! This is a repository that I have created to showcase my skills fr
 
 
 #### Cleaning Airbnb Data for NYC
-**Code**: [Cleaning_And_Analysing_Employee_Data.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Cleaning%20and%20analysing%20employee%20data.ipynb)
+**Code**: [Data_Cleaning_NYC_Airbnb.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Data_Cleaning_NYC_Airbnb/Data%20Cleaning%20Airbnb%20NYC.ipynb)
 
 **Description**: In this data cleaning project, I will clean the dataset by examining **missing values**, **duplicates**, **invalid/erroneous values**, fixing **datatypes**, **anomaly detection** and Y-variable cleaning methods (**Label encoding**, **dictionary mapping**, **one-hot encoding**).
 
