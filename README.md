@@ -34,6 +34,20 @@ Hi, I'm Itunu! This is a repository that I have created to showcase my skills fr
 
 
 
+### Exploratory Data Analysis
+
+
+#### EDA on Airbnb NYC data
+ - **Code**: [Data_Cleaning_NYC_Airbnb.ipynb](https://github.com/iolaitan/data-analysis-portfolio/blob/main/Data_Cleaning_NYC_Airbnb/Data%20Cleaning%20Airbnb%20NYC.ipynb)
+
+ - In this data cleaning project, I will clean the dataset by examining **missing values**, **duplicates**, **invalid/erroneous values**, fixing **datatypes**, **anomaly detection** and Y-variable cleaning methods (**Label encoding**, **dictionary mapping**, **one-hot encoding**).
+
+ - **Programming Language/Tools used**: Python, pandas, numpy, scikit-learn
+
+ - **Results**: Produced and exported a clean dataset that will be used in the next exploratory and visualisation steps
+
+
+
 ### Mini Projects
 
 #### Mini Projects can be found here: [Mini Projects for Learning](https://github.com/iolaitan/data-analysis-portfolio/tree/main/mini_projects)
