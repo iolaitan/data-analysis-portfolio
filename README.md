@@ -1,6 +1,6 @@
-# Itunu Olaitan - Data Analysis Portfolio
+Data Analysis Portfolio
 
-Hi, I'm Itunu! This is a repository that I have created to showcase my skills from self-learning and track my progress in Data Analytics topic and skills fundamental to many data analyst roles.
+This is a repository that I have created to showcase my skills from self-learning and track my progress in Data Analytics topic and skills fundamental to many data analyst roles.
 
 ## Projects
 
